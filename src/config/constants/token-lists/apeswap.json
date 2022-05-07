@@ -602,7 +602,7 @@
     {
       "name": "Bitcrush Token",
       "symbol": "CRUSH",
-      "address": "0x0Ef0626736c2d484A792508e99949736D0AF807e",
+      "address": "0x0e59d2F35C3017B1132Bd552F5155695d05AC356",
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-dex/main/public/images/coins/BCA.svg"
